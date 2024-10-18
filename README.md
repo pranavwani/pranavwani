@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-4y of experience in Software Engineering with Node.js, React, Tailwind, TypeScript, REST API, GraphQL, Web Socket
+5y of experience in Software Engineering with Node.js, React, Tailwind, TypeScript, REST API, GraphQL, Web Socket
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [pranav.eid@gmail.com](mailto:pranav.eid@gmail.com)
